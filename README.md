@@ -16,3 +16,15 @@ chennai international airport is near to Government museum
     1. buying entry ticket
     2. entering into museum
 
+* samosa point
+    * green chutney
+    * sauce
+* metro park
+    * view
+    * entertainment
+* pheonix mall
+    * play zone
+    * barbequenation
+    * clothes
+
+
