@@ -31,3 +31,12 @@ chennai international airport is near to Government museum
 
 
 
+***
+# Table
+The following table describes famous cities everyone must visit 
+|Name of city|Important location|Time      |
+|:----------:|:----------------:|:--------:|
+| Guntur     | Mirchi yard      | 4 hours  |
+| vijayawada | Pvp square       | 6 hours  |
+| Hyderabad  | Brabd Factory    | 8 hours  |
+| Delhi      | Momos hub        | 8 hours  | 
