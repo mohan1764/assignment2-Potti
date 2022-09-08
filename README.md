@@ -39,4 +39,16 @@ The following table describes famous cities everyone must visit
 | Guntur     | Mirchi yard      | 4 hours  |
 | vijayawada | Pvp square       | 6 hours  |
 | Hyderabad  | Brabd Factory    | 8 hours  |
-| Delhi      | Momos hub        | 8 hours  | 
+| Delhi      | Momos hub        | 8 hours  |
+
+
+***
+# quotes
+> "It is a far, far better thing that I do, than I have ever done; it is a far, far better rest I go to than I have ever known". 
+> Author: *A.p.J Abdul Kalam*
+
+> "Kill them with your success, bury them with your smile".
+> Author: *Divya*
+
+> "Trust no one, kill anyone, be only one".
+> Author: *Prabhas*
